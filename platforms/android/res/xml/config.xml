@@ -6,12 +6,12 @@
         <param name="onload" value="true" />
     </feature>
     <allow-intent href="market:*" />
-    <name>Hello World</name>
+    <name>Hanuman Chalisa</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Hanuman Chalisa App which has hanuman chalisa in Hindi, English and packs a Hindi Video of same
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="kaustubh@thinkwalnut.com" href="http://thinkwalnut.com">
+        ThinkWalnut Team
     </author>
     <content src="index.html" />
     <preference name="permissions" value="none" />
