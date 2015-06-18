@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<!--
+    Copyright (c) 2012-2014 Adobe Systems Incorporated. All rights reserved.
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+	  <link rel="stylesheet" href="css/bootstrap.min.css">
+	  <script src="js/jquery.min.js"></script>
+	  <script src="js/bootstrap.min.js"></script>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+
+        <title>Hanuman Chalisa</title>
+    </head>
+    <body>
+
+		<nav class="navbar navbar-inverse navbar-fixed-top">
+		  <div class="container-fluid">
+		    <div class="navbar-header">
+		      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>                        
+		      </button>
+		      <a class="navbar-brand" href="#">Hanuman Chalisa</a>
+		    </div>
+		    <div class="collapse navbar-collapse" id="myNavbar">
+		      <ul class="nav navbar-nav">
+			<li><a href="index.html">Photo</a></li>
+			<li><a href="hindiChalisa.html">Hindi</a></li>
+			<li class="active"><a href="englishChalisa.html">English</a></li>
+			<li><a href="chalisaVideo.html">Video</a></li>
+		      </ul>
+		    </div>
+		  </div>
+		</nav>
+	<div class="container" style="padding-top:65px;;">
+		<div>
+
+<pre>
+Doha
+
+Shri Guru Charan Sarooja-raj 
+Nija manu Mukura Sudhaari
+Baranau Rahubhara Bimala 
+Yasha Jo Dayaka Phala Chari
+Budhee-Heen Thanu Jannikay 
+Sumirow Pavana Kumara
+Bala-Budhee Vidya Dehoo 
+Mohee Harahu Kalesha Vikaara
+
+
+Chopai
+
+Jai Hanuman gyan gun sagar
+Jai Kapis tihun lok ujagar
+
+
+Ram doot atulit bal dhama
+Anjaani-putra Pavan sut nama
+
+
+Mahabir Bikram Bajrangi
+Kumati nivar sumati Ke sangi
+
+
+Kanchan varan viraj subesa
+Kanan Kundal Kunchit Kesha
+
+
+Hath Vajra Aur Dhuvaje Viraje
+Kaandhe moonj janehu sajai
+
+
+Sankar suvan kesri Nandan
+Tej prataap maha jag vandan
+
+
+Vidyavaan guni ati chatur
+Ram kaj karibe ko aatur
+
+
+Prabu charitra sunibe-ko rasiya
+Ram Lakhan Sita man Basiya
+
+
+Sukshma roop dhari Siyahi dikhava
+Vikat roop dhari lank jarava
+
+
+Bhima roop dhari asur sanghare
+Ramachandra ke kaj sanvare
+
+
+Laye Sanjivan Lakhan Jiyaye
+Shri Raghuvir Harashi ur laye
+
+
+Raghupati Kinhi bahut badai
+Tum mam priye Bharat-hi-sam bhai
+
+
+Sahas badan tumharo yash gaave
+Asa-kahi Shripati kanth lagaave
+
+
+Sankadhik Brahmaadi Muneesa
+Narad-Sarad sahit Aheesa
+
+
+Yam Kuber Digpaal Jahan te
+Kavi kovid kahi sake kahan te
+
+
+Tum upkar Sugreevahin keenha
+Ram milaye rajpad deenha
+
+
+Tumharo mantra Vibheeshan maana
+Lankeshwar Bhaye Sub jag jana
+
+
+Yug sahastra jojan par Bhanu
+Leelyo tahi madhur phal janu
+
+
+Prabhu mudrika meli mukh mahee
+Jaladhi langhi gaye achraj nahee
+
+
+Durgaam kaj jagath ke jete
+Sugam anugraha tumhre tete
+
+
+Ram dwaare tum rakhvare
+Hoat na agya binu paisare
+
+
+Sub sukh lahae tumhari sar na
+Tum rakshak kahu ko dar naa
+
+
+Aapan tej samharo aapai
+Teenhon lok hank te kanpai
+
+
+Bhoot pisaach Nikat nahin aavai
+Mahavir jab naam sunavae
+
+
+Nase rog harae sab peera
+Japat nirantar Hanumant beera
+
+
+Sankat se Hanuman chudavae
+Man Karam Vachan dyan jo lavai
+
+
+Sab par Ram tapasvee raja
+Tin ke kaj sakal Tum saja
+
+
+Aur manorath jo koi lavai
+Sohi amit jeevan phal pavai
+
+
+Charon Yug partap tumhara
+Hai persidh jagat ujiyara
+
+
+Sadhu Sant ke tum Rakhware
+Asur nikandan Ram dulhare
+
+
+Ashta-sidhi nav nidhi ke dhata
+As-var deen Janki mata
+
+
+Ram rasayan tumhare pasa
+Sada raho Raghupati ke dasa
+
+
+Tumhare bhajan Ram ko pavai
+Janam-janam ke dukh bisraavai
+
+
+Anth-kaal Raghuvir pur jayee
+Jahan janam Hari-Bakht Kahayee
+
+
+Aur Devta Chit na dharehi
+Hanumanth se hi sarve sukh karehi
+
+
+Sankat kate-mite sab peera
+Jo sumirai Hanumat Balbeera
+
+
+Jai Jai Jai Hanuman Gosahin
+Kripa Karahu Gurudev ki nyahin
+
+
+Jo sat bar path kare kohi
+Chutehi bandhi maha sukh hohi
+
+
+Jo yah padhe Hanuman Chalisa
+Hoye siddhi sakhi Gaureesa
+
+
+Tulsidas sada hari chera
+Keejai Nath Hridaye mein dera
+
+
+Doha
+
+Pavan Tanay Sankat Harana
+Mangala Murati Roop
+Ram Lakhana Sita Sahita
+Hriday Basahu Soor Bhoop
+</pre>
+		</div>
+	</div>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <script type="text/javascript">
+            app.initialize();
+        </script>
+    </body>
+</html>
