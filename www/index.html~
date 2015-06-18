@@ -21,6 +21,15 @@
 -->
 <html>
     <head>
+	<!-- Including BOOTSTRAP -->
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<!-- Including BOOTSTRAP -->
+
         <meta charset="utf-8" />
         <meta name="format-detection" content="telephone=no" />
         <meta name="msapplication-tap-highlight" content="no" />
@@ -30,13 +39,27 @@
         <title>Hello World</title>
     </head>
     <body>
-        <div class="app">
-		<h1>Creator: Kaustubh Joshi</h1>
-		<br/>
-		<div id="deviceready">
-			Hello World from PHONEGAP :)
+	<div class="container">
+		<div class="jumbotron">
+			<h1>Creator: Kaustubh Joshi</h1>
+			<p>
+				Hello World from PHONEGAP :), HERE is my message from inside of a bottstrap code in PHONEGAPPPPPP!
+			</p>
+			<br/>
+			<button type="button" class="btn btn-primary" onClick="alert('idiot')">Alert</button>
 		</div>
-        </div>
+			
+		<div class="embed-responsive embed-responsive-4by3">
+		  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=AETFvQonfV8"></iframe>
+		</div>
+
+		<address>
+		  <strong>XYZ, Inc.</strong><br>
+		  895 Gandhi Marg, Plot 001<br>
+		  Naigain, East 421608<br>
+		  <abbr title="Phone">P:</abbr> (123) 456-7890
+		</address>
+	</div>
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
         <script type="text/javascript">
